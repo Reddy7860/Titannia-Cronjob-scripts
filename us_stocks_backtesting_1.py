@@ -9,9 +9,9 @@ from pymongo import MongoClient
 # Ignore warnings
 warnings.filterwarnings("ignore")
 
-# CSCO, TSLA, AAPL, CAT, WMT -> titaniacluster.fwxe9u5.mongodb.net
-# GE, XOM, AXP, BA, DD, HD, CVX, GS -> cluster0.92qtk1m.mongodb.net #titaniacluster.lbbopxc.mongodb.net
-# MCD, JPM, IBM, INTC, KO, MMM, JNJ -> cluster0.xm6ytet.mongodb.net
+# CSCO, TSLA, AAPL, CAT, WMT -> titaniacluster.fwxe9u5.mongodb.net ## titaniatraders2@gmail.com
+# GE, XOM, AXP, BA, DD, HD, CVX, GS -> cluster0.92qtk1m.mongodb.net ## titaniatraders3@gmail.com
+# MCD, JPM, IBM, INTC, KO, MMM, JNJ -> cluster0.xm6ytet.mongodb.net ## titaniatraders4@gmail.com
 # NKE, MRK, PG, TRV, UNH, MSFT , PFE -> cluster0.izbxvtf.mongodb.net ## titaniatraders5@gmail.com
 # V -> cluster0.igqnlsy.mongodb.net
 
