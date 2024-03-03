@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 # GE, XOM, AXP, BA, DD, HD, CVX, GS -> cluster0.92qtk1m.mongodb.net ## titaniatraders3@gmail.com
 # MCD, JPM, IBM, INTC, KO, MMM, JNJ -> cluster0.xm6ytet.mongodb.net ## titaniatraders4@gmail.com
 # NKE, MRK, PG, TRV, UNH, MSFT , PFE -> cluster0.izbxvtf.mongodb.net ## titaniatraders5@gmail.com
-# V -> cluster0.igqnlsy.mongodb.net
+# V -> cluster0.igqnlsy.mongodb.net ##titaniatraders6@gmail.com
 
 # MongoDB connection details
 username = 'Titania'
