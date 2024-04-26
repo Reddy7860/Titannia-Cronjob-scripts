@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 # NKE, MRK, PG, TRV, UNH, MSFT , PFE -> cluster0.izbxvtf.mongodb.net ## titaniatraders5@gmail.com
 # V -> cluster0.igqnlsy.mongodb.net ##titaniatraders6@gmail.com
 
-#titaniatraders7@gmail.com -> mongodb storage space available
+#titaniatraders7@gmail.com -> cluster0.kafx1p4.mongodb.net -> mongodb storage space available
 #titaniacluster.lbbopxc.mongodb.net -> titaniatraders8@gmail.com
 #titania-cluster.oak6unc.mongodb.net -> titaniatraders1@gmail.com
 
