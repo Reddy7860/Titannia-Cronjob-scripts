@@ -16,6 +16,7 @@ warnings.filterwarnings("ignore")
 # V -> cluster0.igqnlsy.mongodb.net ##titaniatraders6@gmail.com
 
 #titaniatraders7@gmail.com -> mongodb storage space available
+#cluster0.zq3w2cn.mongodb.net -> titaniatraders8@gmail.com
 
 # MongoDB connection details
 username = 'Titania'
