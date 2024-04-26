@@ -15,6 +15,8 @@ warnings.filterwarnings("ignore")
 # NKE, MRK, PG, TRV, UNH, MSFT , PFE -> cluster0.izbxvtf.mongodb.net ## titaniatraders5@gmail.com
 # V -> cluster0.igqnlsy.mongodb.net ##titaniatraders6@gmail.com
 
+#titaniatraders7@gmail.com -> mongodb storage space available
+
 # MongoDB connection details
 username = 'Titania'
 password = 'Mahadev'
