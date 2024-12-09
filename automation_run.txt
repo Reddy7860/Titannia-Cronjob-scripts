@@ -8,3 +8,5 @@ python us_aws_push_signlas_generation.py
 cd ..
 cd volume_profile
 streamlit run .\market_profile_streamlit.py --server.address=0.0.0.0 --server.port=8501
+
+open another terminal : ngrok http http://localhost:8501    
