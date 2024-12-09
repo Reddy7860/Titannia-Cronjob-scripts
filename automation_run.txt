@@ -1,0 +1,5 @@
+python .\us_demand_and_supply_zone_automation.py
+
+python Global_markets_automation.py
+
+python us_aws_push_signlas_generation.py
