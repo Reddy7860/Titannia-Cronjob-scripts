@@ -10,3 +10,10 @@ cd volume_profile
 streamlit run .\market_profile_streamlit.py --server.address=0.0.0.0 --server.port=8501
 
 open another terminal : ngrok http http://localhost:8501    
+
+
+
+Shorting screener :
+https://finviz.com/screener.ashx?v=111&f=cap_largeover%2Cgeo_usa%2Csh_opt_option%2Csh_price_o30%2Csh_relvol_o1%2Cta_averagetruerange_o1%2Cta_beta_o1%2Cta_sma20_pb%2Cta_sma200_pb%2Cta_sma50_pb&ft=4
+
+Long screeener :
