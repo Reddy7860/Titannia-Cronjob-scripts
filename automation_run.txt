@@ -17,3 +17,9 @@ Shorting screener :
 https://finviz.com/screener.ashx?v=111&f=cap_largeover%2Cgeo_usa%2Csh_opt_option%2Csh_price_o30%2Csh_relvol_o1%2Cta_averagetruerange_o1%2Cta_beta_o1%2Cta_sma20_pb%2Cta_sma200_pb%2Cta_sma50_pb&ft=4
 
 Long screeener :
+
+
+
+
+python3 -m venv myenv
+source myenv/bin/activate
